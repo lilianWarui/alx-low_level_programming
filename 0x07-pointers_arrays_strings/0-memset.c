@@ -1,12 +1,9 @@
-
 #include "main.h"
 /**
- * _memset() fills memory with a constant byte
- *s  is is the starting address of memory to be filled
- * bis the desired value
- * n is the mumber of bytes to be changed
- *
- * Return: changed array with new value for n bytes
+ * _memset() is a func that fills memory with a constant byte
+ * b is final output of bytes
+ * s is starting add. of memory
+ * n is the number of bytes to be changed
  */
 char *_memset(char *s, char b, unsigned int n)
 {
