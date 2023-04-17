@@ -1,4 +1,4 @@
-#include "main.h"
+#include "dog.h"
 /**
  * init_dog - Initializes a dog structure with the given values
  * @d: Pointer to the dog structure to be initialized
